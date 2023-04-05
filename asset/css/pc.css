@@ -1,0 +1,17 @@
+/* Error: Can't find stylesheet to import.
+ *     ,
+ * 717 |     @import "_sp";
+ *     |             ^^^^^
+ *     '
+ *   ../../../../Mobile Documents/com~apple~CloudDocs/ ▼ FUNNEL demo sites/オアシス（スック）/asset/sass/pc.scss 717:13  root stylesheet */
+
+body::before {
+  font-family: "Source Code Pro", "SF Mono", Monaco, Inconsolata, "Fira Mono",
+      "Droid Sans Mono", monospace, monospace;
+  white-space: pre;
+  display: block;
+  padding: 1em;
+  margin-bottom: 1em;
+  border-bottom: 2px solid black;
+  content: "Error: Can't find stylesheet to import.\a     \2577 \a 717 \2502      @import \"_sp\";\a     \2502              ^^^^^\a     \2575 \a   ../../../../Mobile Documents/com~apple~CloudDocs/ \25bc  FUNNEL demo sites/\30aa \30a2 \30b7 \30b9 \ff08 \30b9 \30c3 \30af \ff09 /asset/sass/pc.scss 717:13  root stylesheet";
+}
