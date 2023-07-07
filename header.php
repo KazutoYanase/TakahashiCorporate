@@ -10,6 +10,15 @@
 <!DOCTYPE html>
 <html lang="ja" prefix="og: //ogp.me/ns# fb: //www.facebook.com/2008/fbml">
 	<head>
+		<!-- Google tag (gtag.js) -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-D1GXFBC6HD"></script>
+		<script>
+		  window.dataLayer = window.dataLayer || [];
+		  function gtag(){dataLayer.push(arguments);}
+		  gtag('js', new Date());
+		
+		  gtag('config', 'G-D1GXFBC6HD');
+		</script>
 		<title><?php wp_title( '｜', true, 'right' ); bloginfo('name'); ?></title>
 		<meta charset="UTF-8">
 		<meta name="keywords" content="高橋株式会社,スポーツガーデン,エスタ,ビーエルダイニング,タンデムスプリント,アークフィールド,ガーデンズ千早,KURUMERU,久留米">
