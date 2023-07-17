@@ -10,15 +10,13 @@
 <!DOCTYPE html>
 <html lang="ja" prefix="og: //ogp.me/ns# fb: //www.facebook.com/2008/fbml">
 	<head>
-		<!-- Google tag (gtag.js) -->
-		<script async src="https://www.googletagmanager.com/gtag/js?id=G-D1GXFBC6HD"></script>
-		<script>
-		  window.dataLayer = window.dataLayer || [];
-		  function gtag(){dataLayer.push(arguments);}
-		  gtag('js', new Date());
-		
-		  gtag('config', 'G-D1GXFBC6HD');
-		</script>
+		<!-- Google Tag Manager -->
+		<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-WJVLDDT');</script>
+		<!-- End Google Tag Manager -->
 		<title><?php wp_title( '｜', true, 'right' ); bloginfo('name'); ?></title>
 		<meta charset="UTF-8">
 		<meta name="keywords" content="高橋株式会社,スポーツガーデン,エスタ,ビーエルダイニング,タンデムスプリント,アークフィールド,ガーデンズ千早,KURUMERU,久留米">
@@ -74,6 +72,9 @@
 		</script>
 	</head>
 	<body>
+		<!-- Google Tag Manager (noscript) -->
+		<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WJVLDDT" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+		<!-- End Google Tag Manager (noscript) -->
 	<!-- PCメニュー -->
 	<div id="pc_nav" class="pc_block">
 		<div id="pc_nav_wrap">
