@@ -41,7 +41,7 @@
 			<div class="col-4 pc_block">
 				<a href="<?= esc_url(home_url('/news/')); ?>">ニュース</a><br>
 				<a href="<?= esc_url(home_url('/contribution/')); ?>">地域連携</a><br>
-				<a href="https://www.tkgroup.co.jp/saiyou/" target="_blank" rel="noopener noreferrer">採用情報</a><br>
+				<a href="<?= esc_url(home_url('/recruit/')); ?>">採用情報</a><br>
 				<a href="<?= esc_url(home_url('/policy/')); ?>">プライバシーポリシー</a>
 			</div>
 		</div>

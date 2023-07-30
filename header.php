@@ -88,7 +88,7 @@
 				<div>｜</div>
 				<div class="pcmenubtn_1"><a href="<?= esc_url(home_url('/contribution/')); ?>">地域連携</a></div>
 				<div>｜</div>
-				<div class="pcmenubtn_1"><a href="https://www.tkgroup.co.jp/saiyou/" target="_blank" rel="noopener noreferrer">採用情報</a></div>
+				<div class="pcmenubtn_1"><a href="<?= esc_url(home_url('/recruit/')); ?>">採用情報</a></div>
 			</div>
 		</div>
 	</div>
@@ -102,7 +102,7 @@
 				<div class="spmenubtn_1"><a href="<?= esc_url(home_url('/overview/')); ?>">会社概要</a></div>
 				<div class="spmenubtn_1"><a href="<?= esc_url(home_url('/projects/')); ?>">事業案内</a></div>
 				<div class="spmenubtn_1"><a href="<?= esc_url(home_url('/contribution/')); ?>">地域連携</a></div>
-				<div class="spmenubtn_1"><a href="https://www.tkgroup.co.jp/saiyou/" target="_blank" rel="noopener noreferrer">採用情報</a></div>
+				<div class="spmenubtn_1"><a href="<?= esc_url(home_url('/recruit/')); ?>">採用情報</a></div>
 				<div class="spmenubtn_1"><a href="<?= esc_url(home_url('/policy/')); ?>">プライバシーポリシー</a></div>
 			</div>
 		</div>
