@@ -562,10 +562,6 @@ get_header(); ?>
                 <div class="txt">高橋彦太郎</div>
             </div>
             <div>
-                <div class="ttl">専務取締役</div>
-                <div class="txt">高橋米彦</div>
-            </div>
-            <div>
                 <div class="ttl">取締役</div>
                 <div class="txt">中島康彦</div>
             </div>
