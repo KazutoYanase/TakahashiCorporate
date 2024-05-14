@@ -357,6 +357,11 @@ body {
                 margin: 0 15% 30px;
             }
 
+            .gardens {
+                width: 70%;
+                margin: 0 15% 30px;
+            }
+
             .chiiki {
                 width: 70%;
                 margin: 0 15%;
@@ -1361,6 +1366,7 @@ body {
             float: none;
             margin-right: 0;
         }
+
         .clearfix {
             margin-bottom: 0;
         }
@@ -1410,6 +1416,7 @@ body {
 /*-----------------------------------------------------*/
 #btns {
     margin-bottom: 50px;
+
     .wrap {
         width: 90%;
         margin: 0 auto;
@@ -1436,5 +1443,121 @@ body {
 
     #footer_copy {
         margin-top: 0;
+    }
+}
+
+/*-----------------------------------------------------*/
+// ガーデンズ千早のコンセプト
+/*-----------------------------------------------------*/
+.head_gardens {
+    width: 90%;
+    margin: 50px auto 30px;
+
+    .wrap {
+        .ttl {
+            font-size: 20px;
+        }
+
+        .enttl {
+            font-size: 10px;
+        }
+    }
+}
+
+#gardens_concept {
+    width: 100%;
+    margin: 0 auto 60px;
+
+    .catch {
+        font-size: 30px;
+        line-height: 1.5;
+        margin-bottom: 30px;
+    }
+
+    .txt {
+        font-size: 14px;
+        width: 90%;
+        margin: 0 auto 30px;
+    }
+
+    .ph_box {
+        img {
+            border-radius: 0;
+        }
+    }
+}
+
+.c_gardens_box {
+    width: 90%;
+    margin: 0 auto 30px;
+    justify-content: space-between;
+
+    .ph_inner {
+        width: 85%;
+
+        img {
+            border-radius: 10px;
+        }
+    }
+
+    .txt_inner {
+        width: 100%;
+        font-size: 14px;
+    }
+}
+
+.order_jun {
+    flex-direction: column-reverse;
+
+    .ph_inner {
+        margin-top: 15px;
+    }
+}
+
+.order_rev {
+    flex-direction: column-reverse;
+
+    .ph_inner {
+        margin-top: 15px;
+        margin-left: auto;
+    }
+}
+
+.gardens_kaihatsu {
+    width: 100%;
+    margin: 0 auto 20px;
+
+    .midashi {
+        font-size: 16px;
+        font-weight: 600;
+        margin: 50px 0 30px;
+        text-align: center;
+    }
+
+    .inner {
+        width: 90%;
+        margin: 0 auto 20px;
+        font-size: 14px;
+        flex-direction: column;
+
+        .nen {
+            margin-right: 0;
+            font-weight: 600;
+            line-height: 2;
+        }
+
+        .event {
+            line-height: 2;
+        }
+    }
+}
+
+.gardens_banner {
+    width: 100%;
+    margin: 0 auto 75px;
+
+    .banner_inner {
+        width: 80%;
+        margin: 0 auto;
     }
 }

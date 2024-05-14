@@ -143,6 +143,11 @@ get_header(); ?>
                     <img src="<?= esc_url(get_template_directory_uri()); ?>/asset/image/top_banner-1.jpg" alt="高橋グループのニュースサイト タノシカ！">
                 </a>
             </div>
+            <div class="gardens fade">
+                <a href="<?= esc_url(home_url('/conceptgardens/')); ?>">
+                    <img src="<?= esc_url(get_template_directory_uri()); ?>/asset/image/top_banner__gardens.png" alt="ガーデンズ千早のコンセプト">
+                </a>
+            </div>
             <div class="chiiki fade">
                 <a href="<?= esc_url(home_url('/contribution/')); ?>">
                     <img src="<?= esc_url(get_template_directory_uri()); ?>/asset/image/top_banner-2.jpg" alt="高橋の地域連携">

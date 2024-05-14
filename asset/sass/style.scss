@@ -355,11 +355,15 @@ img {
             justify-content: space-between;
 
             .tanoshika {
-                width: 300px;
+                width: 250px;
+            }
+
+            .gardens {
+                width: 250px;
             }
 
             .chiiki {
-                width: 300px;
+                width: 250px;
             }
         }
     }
@@ -1600,6 +1604,7 @@ img {
 /*-----------------------------------------------------*/
 #btns {
     margin-bottom: 100px;
+
     .wrap {
         width: 950px;
         margin: 0 auto;
@@ -1619,6 +1624,117 @@ img {
     }
 }
 
+/*-----------------------------------------------------*/
+// ガーデンズ千早のコンセプト
+/*-----------------------------------------------------*/
+.head_gardens {
+    width: 800px;
+    margin: 160px auto 60px;
+
+    .wrap {
+        .ttl {
+            font-size: 24px;
+            font-weight: 700;
+            margin-bottom: 7px;
+        }
+
+        .enttl {
+            font-size: 12px;
+            font-weight: 500;
+        }
+    }
+}
+
+#gardens_concept {
+    width: 800px;
+    margin: 0 auto 120px;
+
+    .catch {
+        font-size: 40px;
+        font-weight: 700;
+        text-align: center;
+        margin-bottom: 50px;
+    }
+
+    .txt {
+        text-align: justify;
+        line-height: 2;
+        margin-bottom: 30px;
+    }
+
+    .ph_box {
+        img {
+            border-radius: 20px;
+        }
+    }
+}
+
+.c_gardens_box {
+    width: 1000px;
+    margin: 0 auto 60px;
+    display: flex;
+    justify-content: space-between;
+
+    .ph_inner {
+        width: 360px;
+
+        img {
+            border-radius: 20px;
+        }
+    }
+
+    .txt_inner {
+        width: 580px;
+        text-align: justify;
+        line-height: 2;
+    }
+}
+
+.order_jun {
+    flex-direction: row;
+}
+
+.order_rev {
+    flex-direction: row-reverse;
+}
+
+.gardens_kaihatsu {
+    width: fit-content;
+    margin: 0 auto 80px;
+    display: flex;
+    justify-content: center;
+
+    .midashi {
+        font-size: 18px;
+        font-weight: 600;
+        margin: 50px 0 30px;
+        text-align: center;
+    }
+
+    .inner {
+        font-size: 16px;
+        display: flex;
+        justify-content: flex-start;
+
+        .nen {
+            margin-right: 15px;
+            line-height: 2.5;
+        }
+
+        .event {
+            line-height: 2.5;
+        }
+    }
+}
+
+.gardens_banner {
+    width: fit-content;
+    margin: 0 auto 150px;
+
+    .banner_inner {
+        width: 360px;
+    }
+}
 
 
 /*-----------------------------------------------------*/
