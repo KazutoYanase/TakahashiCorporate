@@ -88,23 +88,28 @@ get_header(); ?>
 <!-- ボタン -->
 <div id="btns">
     <div class="wrap">
+        <div class="banner_tanoshika">
+            <a href="https://tkgroup.co.jp/tanoshika/" target="_blank">
+                <img src="<?= esc_url(get_template_directory_uri()); ?>/asset/image/rec_tanoshika_banner.png" alt="">
+            </a>
+        </div>
         <div class="box">
-            <a href="https://tkjinji.jbplt.jp/" target="_blank">
+            <a href="https://arwrk.net/recruit/i08yllup9zf1770" target="_blank">
                 <img src="<?= esc_url(get_template_directory_uri()); ?>/asset/image/rec__btn-01.jpg" alt="">
             </a>
         </div>
         <div class="box">
-            <a href="https://sportsgarden.jbplt.jp/" target="_blank">
+            <a href="https://arwrk.net/recruit/h9uj6z2wabcurqx" target="_blank">
                 <img src="<?= esc_url(get_template_directory_uri()); ?>/asset/image/rec__btn-02.jpg" alt="">
             </a>
         </div>
         <div class="box">
-            <a href="https://estajinji.jbplt.jp/" target="_blank">
+            <a href="https://arwrk.net/recruit/wbulhb4w661sfbr" target="_blank">
                 <img src="<?= esc_url(get_template_directory_uri()); ?>/asset/image/rec__btn-03.jpg" alt="">
             </a>
         </div>
         <div class="box">
-            <a href="https://bldjinji.jbplt.jp/" target="_blank">
+            <a href="https://arwrk.net/recruit/caf7umusa009c4y" target="_blank">
                 <img src="<?= esc_url(get_template_directory_uri()); ?>/asset/image/rec__btn-04.jpg" alt="">
             </a>
         </div>

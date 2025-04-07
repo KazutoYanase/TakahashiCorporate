@@ -32,12 +32,14 @@ get_header(); ?>
         <div>｜</div>
         <div><a href="#esta">エスタ株式会社</a></div>
     </div>
-    <div class="sub_menu_pjt-2">
+    <div class="sub_menu_pjt-3">
         <div><a href="#bldining">ビーエルダイニング株式会社</a></div>
         <div>｜</div>
         <div><a href="#arcfield">アークフィールド株式会社</a></div>
         <div>｜</div>
         <div><a href="#tandemsprint">TandemSprint, Inc.</a></div>
+        <div>｜</div>
+        <div>クオリティクラブ株式会社</div>
     </div>
 </div>
 <!-- コンセプト -->

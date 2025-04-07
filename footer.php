@@ -36,7 +36,8 @@
 				<a href="<?php if(!is_page('projects')): ?><?= esc_url(home_url('/projects/')); ?><?php endif; ?>#esta">　ー エスタ&#12849;</a><br>
 				<a href="<?php if(!is_page('projects')): ?><?= esc_url(home_url('/projects/')); ?><?php endif; ?>#bldining">　ー ビーエルダイニング&#12849;</a><br>
 				<a href="<?php if(!is_page('projects')): ?><?= esc_url(home_url('/projects/')); ?><?php endif; ?>#arcfield">　ー アークフィールド&#12849;</a><br>
-				<a href="<?php if(!is_page('projects')): ?><?= esc_url(home_url('/projects/')); ?><?php endif; ?>#tandemsprint">　ー タンデムスプリント</a>
+				<a href="<?php if(!is_page('projects')): ?><?= esc_url(home_url('/projects/')); ?><?php endif; ?>#tandemsprint">　ー タンデムスプリント</a><br>
+				　ー クオリティクラブ&#12849;
 			</div>
 			<div class="col-4 pc_block">
 				<a href="<?= esc_url(home_url('/news/')); ?>">ニュース</a><br>

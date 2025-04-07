@@ -666,6 +666,14 @@ body {
         font-size: 14px;
         margin: 0 auto;
     }
+    
+    .sub_menu_pjt-3 {
+        display: none;
+        justify-content: space-between;
+        width: 600px;
+        font-size: 14px;
+        margin: 0 auto;
+    }
 }
 
 /*-----------------------------------------------------*/
@@ -1432,6 +1440,11 @@ body {
                 border-radius: 15px;
                 border: 1px solid #333;
             }
+        }
+
+        .banner_tanoshika {
+            width: 90%;
+            margin: 0 5% 30px;
         }
     }
 }

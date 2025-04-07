@@ -279,6 +279,9 @@ get_header(); ?>
                 <img src="<?= esc_url(get_template_directory_uri()); ?>/asset/image/top_project-08.jpg" alt="KURUMERU">
             </div>
         </a>
+        <div class="logo fade">
+            <img src="<?= esc_url(get_template_directory_uri()); ?>/asset/image/top_project-09.jpg" alt="クオリティクラブ株式会社">
+        </div>
     </div>
 </div>
 <!-- マップ -->
@@ -307,7 +310,7 @@ get_header(); ?>
                     アゼリアガーデン諏訪野<br>
                     サンシティ宗像<br>
                     <a href="https://gardenschihaya.com/" target="_blank" rel="noopener noreferrer">ガーデンズ千早　<img src="<?= esc_url(get_template_directory_uri()); ?>/asset/image/top_map_icon.png" alt=""></a><br>
-                    <a href="https://chihayapark.com/" target="_blank" rel="noopener noreferrer">ちはや公園　<img src="<?= esc_url(get_template_directory_uri()); ?>/asset/image/top_map_icon.png" alt=""></a> <br>
+                    <a href="https://gardenschihaya.com/park/" target="_blank" rel="noopener noreferrer">ちはや公園　<img src="<?= esc_url(get_template_directory_uri()); ?>/asset/image/top_map_icon.png" alt=""></a><br>
                     <a href="https://www.kurumeru.jp/" target="_blank" rel="noopener noreferrer">KURUMERU　<img src="<?= esc_url(get_template_directory_uri()); ?>/asset/image/top_map_icon.png" alt=""></a>
                 </div>
             </div>
@@ -340,7 +343,6 @@ get_header(); ?>
                     <img src="<?= esc_url(get_template_directory_uri()); ?>/asset/image/top_project-04.jpg" alt="">
                 </div>
                 <div class="txt fade">
-                    <a href="https://www.pronto.co.jp/shop/detail?shopid=PR00008011" target="_blank" rel="noopener noreferrer">プロント長崎浜町　<img src="<?= esc_url(get_template_directory_uri()); ?>/asset/image/top_map_icon.png" alt=""></a><br>
                     <a href="https://www.pronto.co.jp/shop/detail?shopid=0339106015" target="_blank" rel="noopener noreferrer">プロント大塚　<img src="<?= esc_url(get_template_directory_uri()); ?>/asset/image/top_map_icon.png" alt=""></a><br>
                     <a href="https://www.pronto.co.jp/shop/detail?shopid=PR00000264" target="_blank" rel="noopener noreferrer">プロント渋谷東武ホテル　<img src="<?= esc_url(get_template_directory_uri()); ?>/asset/image/top_map_icon.png" alt=""></a><br>
                     プロント日比谷<br>
@@ -364,6 +366,14 @@ get_header(); ?>
                 </div>
                 <div class="txt fade">
                     <a href="https://tandemsprint.com/" target="_blank" rel="noopener noreferrer">タンデムスプリント　<img src="<?= esc_url(get_template_directory_uri()); ?>/asset/image/top_map_icon.png" alt=""></a>
+                </div>
+            </div>
+            <div class="inner">
+                <div class="logo fade">
+                    <img src="<?= esc_url(get_template_directory_uri()); ?>/asset/image/top_project-09.jpg" alt="">
+                </div>
+                <div class="txt fade">
+                    <a href="https://esta-myfitness.com/saga/" target="_blank" rel="noopener noreferrer">エスタ マイフィットネスSAGA　<img src="<?= esc_url(get_template_directory_uri()); ?>/asset/image/top_map_icon.png" alt=""></a>
                 </div>
             </div>
         </div>

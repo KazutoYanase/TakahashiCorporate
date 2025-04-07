@@ -536,7 +536,7 @@ img {
         display: flex;
         flex-wrap: wrap;
         justify-content: space-between;
-        width: 800px;
+        width: 1000px;
         margin: 0 auto;
 
         .logo {
@@ -681,6 +681,14 @@ img {
         display: flex;
         justify-content: space-between;
         width: 600px;
+        font-size: 14px;
+        margin: 0 auto;
+    }
+    
+    .sub_menu_pjt-3 {
+        display: flex;
+        justify-content: space-between;
+        width: 800px;
         font-size: 14px;
         margin: 0 auto;
     }
@@ -1620,6 +1628,11 @@ img {
                 border-radius: 20px;
                 border: 1px solid #333;
             }
+        }
+
+        .banner_tanoshika {
+            width: 460px;
+            margin: 0 245px 60px;
         }
     }
 }

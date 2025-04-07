@@ -319,8 +319,6 @@ get_header(); ?>
                     スポーツレジャー事業部及びスポーツクラブ事業部を分社化し、「株式会社ガーデンボウル」「エスタ株式会社」を設立
                 </dd>
             </dl>
-        </div>
-        <div class="history_left">
             <dl class="history_box fade">
                 <dt class="history_tit">
                     2008年04月
@@ -329,6 +327,8 @@ get_header(); ?>
                     高橋彦太郎 高橋株式会社 代表取締役就任
                 </dd>
             </dl>
+        </div>
+        <div class="history_left">
             <dl class="history_box fade">
                 <dt class="history_tit">
                     2009年01月
@@ -475,6 +475,22 @@ get_header(); ?>
                     久留米市中央公園内にKURUMERUを開業
                 </dd>
             </dl>
+            <dl class="history_box fade">
+                <dt class="history_tit">
+                    2024年09月
+                </dt>
+                <dd class="history_txt">
+                    「クオリティクラブ株式会社」を設立
+                </dd>
+            </dl>
+            <dl class="history_box fade">
+                <dt class="history_tit">
+                    2024年10月
+                </dt>
+                <dd class="history_txt">
+                    エスタマイフィットネスSAGAを開業
+                </dd>
+            </dl>
         </div>
     </div>
 </div>
@@ -570,6 +586,10 @@ get_header(); ?>
                 <div class="txt">小野智博</div>
             </div>
             <div>
+                <div class="ttl">取締役</div>
+                <div class="txt">笠原盛泰</div>
+            </div>
+            <div>
                 <div class="ttl">監査役</div>
                 <div class="txt">内田健二</div>
             </div>
@@ -593,7 +613,7 @@ get_header(); ?>
         <div class="inner fade">
             <div class="ttl">グループ会社</div>
             <div class="txt">
-                スポーツガーデン株式会社、エスタ株式会社、ビーエルダイニング株式会社、アークフィールド株式会社、TandemSprint,lnc.、博英不動産株式会社
+                スポーツガーデン株式会社、エスタ株式会社、ビーエルダイニング株式会社、アークフィールド株式会社、クオリティクラブ株式会社、TandemSprint,lnc.、博英不動産株式会社
             </div>
         </div>
         <div class="inner fade">
@@ -672,13 +692,13 @@ get_header(); ?>
                 高橋株式会社 東京会議室
             </div>
             <div class="txt">
-                〒104-0028<br>
-                東京都中央区八重洲2丁目8-7 福岡ビル4F<br>
+                〒104-0031<br>
+                東京都中央区京橋2丁目13-10 京橋MIDビル4階<br>
                 DIAGONAL RUN TOKYO内
             </div>
         </div>
         <div class="map fade">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3241.013968807328!2d139.7657788158501!3d35.676658037829064!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f20!3m3!1m2!1s0x60188be35efab3ed%3A0x6f258ebb0f304ad3!2zRElBR09OQUwgUlVOIFRPS1lP77yI44OA44Kk44Ki44K044OK44Or44Op44Oz5p2x5LqsL0RSVO-8iQ!5e0!3m2!1sja!2sjp!4v1679558888684!5m2!1sja!2sjp" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6482.129347619151!2d139.76292509357916!3d35.6754095!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f20!3m3!1m2!1s0x60188be35efab3ed%3A0x6f258ebb0f304ad3!2zRElBR09OQUwgUlVOIFRPS1lP77yI44OA44Kk44Ki44K044OK44Or44Op44Oz5p2x5LqsL0RSVO-8iQ!5e0!3m2!1sja!2sjp!4v1724341907655!5m2!1sja!2sjp" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
         </div>
         <a href="https://goo.gl/maps/BLd8zA7ypNrmSR7z5" target="_blank" rel="noopener noreferrer">
             <div class="btn">
