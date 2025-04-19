@@ -34,10 +34,11 @@
 				<a href="<?php if(!is_page('projects')): ?><?= esc_url(home_url('/projects/')); ?><?php endif; ?>#takahashi">　ー 高橋&#12849; 不動産事業部</a><br>
 				<a href="<?php if(!is_page('projects')): ?><?= esc_url(home_url('/projects/')); ?><?php endif; ?>#sportsgarden">　ー スポーツガーデン&#12849;</a><br>
 				<a href="<?php if(!is_page('projects')): ?><?= esc_url(home_url('/projects/')); ?><?php endif; ?>#esta">　ー エスタ&#12849;</a><br>
-				<a href="<?php if(!is_page('projects')): ?><?= esc_url(home_url('/projects/')); ?><?php endif; ?>#bldining">　ー ビーエルダイニング&#12849;</a><br>
+				<a href="<?php if(!is_page('projects')): ?><?= esc_url(home_url('/projects/')); ?><?php endif; ?>#bldining">　ー 高橋グループ&#12849;</a><br>
 				<a href="<?php if(!is_page('projects')): ?><?= esc_url(home_url('/projects/')); ?><?php endif; ?>#arcfield">　ー アークフィールド&#12849;</a><br>
 				<a href="<?php if(!is_page('projects')): ?><?= esc_url(home_url('/projects/')); ?><?php endif; ?>#tandemsprint">　ー タンデムスプリント</a><br>
-				　ー クオリティクラブ&#12849;
+				　ー クオリティクラブ&#12849;<br>
+				　ー N事業部&#12849;
 			</div>
 			<div class="col-4 pc_block">
 				<a href="<?= esc_url(home_url('/news/')); ?>">ニュース</a><br>

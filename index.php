@@ -62,7 +62,7 @@ get_header(); ?>
             <div class="top_slider_panel">
                 <div class="top_slider_ph"><img src="<?= esc_url(get_template_directory_uri()); ?>/asset/image/pjt_bld-1.jpg" alt=""></div>
                 <div class="top_msg">
-                    ビーエルダイニング株式会社
+                    高橋グループ株式会社
                 </div>
             </div>
         </a>
@@ -256,7 +256,7 @@ get_header(); ?>
         </a>
         <a href="https://www.bldining.com/" target="_blank" rel="noopener noreferrer">
             <div class="logo fade">
-                <img src="<?= esc_url(get_template_directory_uri()); ?>/asset/image/top_project-04.jpg" alt="ビーエルダイニング株式会社">
+                <img src="<?= esc_url(get_template_directory_uri()); ?>/asset/image/top_project-10.jpg" alt="高橋グループ株式会社">
             </div>
         </a>
         <a href="https://arc-field.com/" target="_blank" rel="noopener noreferrer">
@@ -280,7 +280,10 @@ get_header(); ?>
             </div>
         </a>
         <div class="logo fade">
-            <img src="<?= esc_url(get_template_directory_uri()); ?>/asset/image/top_project-09.jpg" alt="クオリティクラブ株式会社">
+            <img src="<?= esc_url(get_template_directory_uri()); ?>/asset/image/top_project-12.jpg" alt="クオリティクラブ株式会社">
+        </div>
+        <div class="logo fade">
+            <img src="<?= esc_url(get_template_directory_uri()); ?>/asset/image/top_project-11.jpg" alt="N事業部株式会社">
         </div>
     </div>
 </div>
@@ -340,7 +343,7 @@ get_header(); ?>
         <div class="right">
             <div class="inner">
                 <div class="logo fade">
-                    <img src="<?= esc_url(get_template_directory_uri()); ?>/asset/image/top_project-04.jpg" alt="">
+                    <img src="<?= esc_url(get_template_directory_uri()); ?>/asset/image/top_project-10.jpg" alt="">
                 </div>
                 <div class="txt fade">
                     <a href="https://www.pronto.co.jp/shop/detail?shopid=0339106015" target="_blank" rel="noopener noreferrer">プロント大塚　<img src="<?= esc_url(get_template_directory_uri()); ?>/asset/image/top_map_icon.png" alt=""></a><br>
@@ -356,7 +359,6 @@ get_header(); ?>
                 </div>
                 <div class="txt fade">
                     棚田米水田<span>（福岡県うきは市）</span><br>
-                    アスパラ農場<span>（福岡県三潴郡大木町）</span><br>
                     ニラ農場<span>（熊本県山鹿市）</span>
                 </div>
             </div>
@@ -370,10 +372,18 @@ get_header(); ?>
             </div>
             <div class="inner">
                 <div class="logo fade">
-                    <img src="<?= esc_url(get_template_directory_uri()); ?>/asset/image/top_project-09.jpg" alt="">
+                    <img src="<?= esc_url(get_template_directory_uri()); ?>/asset/image/top_project-12.jpg" alt="">
                 </div>
                 <div class="txt fade">
                     <a href="https://esta-myfitness.com/saga/" target="_blank" rel="noopener noreferrer">エスタ マイフィットネスSAGA　<img src="<?= esc_url(get_template_directory_uri()); ?>/asset/image/top_map_icon.png" alt=""></a>
+                </div>
+            </div>
+            <div class="inner">
+                <div class="logo fade">
+                    <img src="<?= esc_url(get_template_directory_uri()); ?>/asset/image/top_project-11.jpg" alt="">
+                </div>
+                <div class="txt fade">
+                    <a href="https://www.lifeworksupport.com" target="_blank" rel="noopener noreferrer">ライフワークサポート　<img src="<?= esc_url(get_template_directory_uri()); ?>/asset/image/top_map_icon.png" alt=""></a>
                 </div>
             </div>
         </div>

@@ -48,7 +48,7 @@ get_header(); ?>
     （1）<a href="<?= esc_url(home_url('/overview/')); ?>#profile">高橋株式会社</a><br class="sp_inline">（主たる事業：グループ本社、教育事業）<br>
     （2）<a href="https://www.sports-esta.com/company/" target="_blank" rel="noopener noreferrer">エスタ株式会社</a><br class="sp_inline"> （主たる事業：フィットネス・リラクゼーション事業）<br>
     （3）<a href="https://sportsgarden.co.jp/corporate/" target="_blank" rel="noopener noreferrer">スポーツガーデン株式会社</a><br class="sp_inline">（主たる事業：レジャー・アミューズメント事業）<br>
-    （4）<a href="https://www.bldining.com/blank" target="_blank" rel="noopener noreferrer">ビーエルダイニング株式会社</a><br class="sp_inline">（主たる事業：外食事業）<br>
+    （4）<a href="https://www.bldining.com/blank" target="_blank" rel="noopener noreferrer">高橋グループ株式会社</a><br class="sp_inline">（主たる事業：外食事業）<br>
     （5）<a href="https://arc-field.com/company/" target="_blank" rel="noopener noreferrer">アークフィールド株式会社</a><br class="sp_inline">（主たる事業：農業事業）<br>
     （6）<a href="https://tandemsprint.com/" target="_blank" rel="noopener noreferrer">TandemSprint, Inc.</a><br class="sp_inline">（主たる事業：海外進出支援事業）<br>
     （7）博英不動産株式会社<br class="sp_inline"> （主たる事業：不動産事業）<br>
@@ -191,7 +191,7 @@ get_header(); ?>
     （1）高橋株式会社<br class="sp_inline">（主たる事業：グループ本社、教育事業）<br>
     （2）エスタ株式会社 <br class="sp_inline">（主たる事業：フィットネス・リラクゼーション事業）<br>
     （3）スポーツガーデン株式会社<br class="sp_inline">（主たる事業：レジャー・アミューズメント事業）<br>
-    （4）ビーエルダイニング株式会社<br class="sp_inline">（主たる事業：外食事業）<br>
+    （4）高橋グループ株式会社<br class="sp_inline">（主たる事業：外食事業）<br>
     （5）アークフィールド株式会社<br class="sp_inline">（主たる事業：農業事業）<br>
     （6）TandemSprint, Inc.<br class="sp_inline">（主たる事業：海外進出支援事業）<br>
     （7）博英不動産株式会社 <br class="sp_inline">（主たる事業：不動産事業）<br>

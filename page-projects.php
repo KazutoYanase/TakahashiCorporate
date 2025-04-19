@@ -33,13 +33,16 @@ get_header(); ?>
         <div><a href="#esta">エスタ株式会社</a></div>
     </div>
     <div class="sub_menu_pjt-3">
-        <div><a href="#bldining">ビーエルダイニング株式会社</a></div>
+        <div><a href="#bldining">高橋グループ株式会社</a></div>
         <div>｜</div>
         <div><a href="#arcfield">アークフィールド株式会社</a></div>
         <div>｜</div>
         <div><a href="#tandemsprint">TandemSprint, Inc.</a></div>
-        <div>｜</div>
+    </div>
+    <div class="sub_menu_pjt-2">
         <div>クオリティクラブ株式会社</div>
+        <div>｜</div>
+        <div>N事業部株式会社</div>
     </div>
 </div>
 <!-- コンセプト -->
@@ -227,14 +230,14 @@ get_header(); ?>
 <div id="bldining" class="corpbox">
     <div class="headttl">
         <div class="logo">
-            <img src="<?= esc_url(get_template_directory_uri()); ?>/asset/image/pjt_logo-4.png" alt="">
+            <img src="<?= esc_url(get_template_directory_uri()); ?>/asset/image/pjt_logo-10.png" alt="">
         </div>
         <div class="txt">
             <div class="jp">
-                ビーエルダイニング株式会社
+                高橋グループ株式会社
             </div>
             <div class="en">
-                BL Dining Co.,Ltd.
+                TAKAHASHI GROUP Co.,Ltd.
             </div>
         </div>
     </div>
@@ -274,11 +277,11 @@ get_header(); ?>
         </div>
         <div class="copy">
             <div class="txt fade">
-                “プロント”など、カフェを展開するビーエルダイニング。私たちが、これまで高橋グループの歴史の中で築いてきたコンセプトは、「その街に新しいダイニングシーン」を創りだすこと。そして、心温まるおもてなしを通して、お客さまの日常の中に、潤いのあるひとときを演出していくこと。街に新たな風景を創りだし、お客さまの日常を豊かに変えていく。自社ブランドの開発や海外出店など、私たちビーエルダイニングの挑戦に終わりはありません。
+                “プロント”など、カフェを展開する高橋グループ株式会社。私たちが、これまで高橋グループの歴史の中で築いてきたコンセプトは、「その街に新しいダイニングシーン」を創りだすこと。そして、心温まるおもてなしを通して、お客さまの日常の中に、潤いのあるひとときを演出していくこと。街に新たな風景を創りだし、お客さまの日常を豊かに変えていく。自社ブランドの開発や海外出店など、私たち高橋グループ株式会社の挑戦に終わりはありません。
             </div>
             <a href="https://www.bldining.com/" target="_blank" rel="noopener noreferrer">
                 <div class="btn">
-                    ビーエルダイニング Webサイト →
+                    高橋グループ株式会社 Webサイト →
                 </div>
             </a>
         </div>

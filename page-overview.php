@@ -327,8 +327,6 @@ get_header(); ?>
                     高橋彦太郎 高橋株式会社 代表取締役就任
                 </dd>
             </dl>
-        </div>
-        <div class="history_left">
             <dl class="history_box fade">
                 <dt class="history_tit">
                     2009年01月
@@ -345,6 +343,8 @@ get_header(); ?>
                     不動産事業である関連会社 博英株式会社の社名を「博英不動産株式会社」に変更
                 </dd>
             </dl>
+        </div>
+        <div class="history_left">
             <dl class="history_box fade">
                 <dt class="history_tit">
                     2012年08月
@@ -491,6 +491,25 @@ get_header(); ?>
                     エスタマイフィットネスSAGAを開業
                 </dd>
             </dl>
+            <dl class="history_box fade">
+                <dt class="history_tit">
+                    2025年02月
+                </dt>
+                <dd class="history_txt">
+                    「N事業部株式会社」を設立<br>
+                    山鹿市にて福祉作業所「ライフワークサポート」を開所
+
+                </dd>
+            </dl>
+            <dl class="history_box fade">
+                <dt class="history_tit">
+                    2025年04月
+                </dt>
+                <dd class="history_txt">
+                    ビーエルダイニング株式会社の社名を「高橋グループ株式会社」に変更
+            
+                </dd>
+            </dl>
         </div>
     </div>
 </div>
@@ -575,7 +594,7 @@ get_header(); ?>
         <div class="box fade">
             <div>
                 <div class="ttl">代表取締役</div>
-                <div class="txt">高橋彦太郎</div>
+                <div class="txt">髙橋彦太郎</div>
             </div>
             <div>
                 <div class="ttl">取締役</div>
@@ -613,7 +632,7 @@ get_header(); ?>
         <div class="inner fade">
             <div class="ttl">グループ会社</div>
             <div class="txt">
-                スポーツガーデン株式会社、エスタ株式会社、ビーエルダイニング株式会社、アークフィールド株式会社、クオリティクラブ株式会社、TandemSprint,lnc.、博英不動産株式会社
+                スポーツガーデン株式会社、エスタ株式会社、高橋グループ株式会社、アークフィールド株式会社、TandemSprint,lnc.、クオリティクラブ株式会社、N事業部株式会社、博英不動産株式会社
             </div>
         </div>
         <div class="inner fade">

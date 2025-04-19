@@ -19,7 +19,7 @@
 		<!-- End Google Tag Manager -->
 		<title><?php wp_title( '｜', true, 'right' ); bloginfo('name'); ?></title>
 		<meta charset="UTF-8">
-		<meta name="keywords" content="高橋株式会社,スポーツガーデン,エスタ,ビーエルダイニング,タンデムスプリント,アークフィールド,ガーデンズ千早,KURUMERU,久留米">
+		<meta name="keywords" content="高橋株式会社,スポーツガーデン,エスタ,高橋グループ株式会社,タンデムスプリント,アークフィールド,ガーデンズ千早,KURUMERU,久留米">
 		<meta name="description" content="<?php set_meta_description(); ?>">
 		<meta name="viewport" content="width=device-width, maximum-scale=1.0">
 		<meta name="format-detection" content="telephone=no">
