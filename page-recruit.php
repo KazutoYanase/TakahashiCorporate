@@ -95,22 +95,22 @@ get_header(); ?>
         </div>
         <div class="box">
             <a href="https://arwrk.net/recruit/i08yllup9zf1770" target="_blank">
-                <img src="<?= esc_url(get_template_directory_uri()); ?>/asset/image/rec__btn-01.jpg" alt="">
+                <img src="<?= esc_url(get_template_directory_uri()); ?>/asset/image/rec__btn-01.jpg" alt="高橋株式会社">
             </a>
         </div>
         <div class="box">
             <a href="https://arwrk.net/recruit/h9uj6z2wabcurqx" target="_blank">
-                <img src="<?= esc_url(get_template_directory_uri()); ?>/asset/image/rec__btn-02.jpg" alt="">
+                <img src="<?= esc_url(get_template_directory_uri()); ?>/asset/image/rec__btn-02.jpg" alt="スポガ">
             </a>
         </div>
         <div class="box">
             <a href="https://arwrk.net/recruit/wbulhb4w661sfbr" target="_blank">
-                <img src="<?= esc_url(get_template_directory_uri()); ?>/asset/image/rec__btn-03.jpg" alt="">
+                <img src="<?= esc_url(get_template_directory_uri()); ?>/asset/image/rec__btn-03.jpg" alt="エスタ">
             </a>
         </div>
         <div class="box">
-            <a href="https://arwrk.net/recruit/caf7umusa009c4y" target="_blank">
-                <img src="<?= esc_url(get_template_directory_uri()); ?>/asset/image/rec__btn-04.jpg" alt="">
+            <a href="https://arwrk.net/recruit/u9ojuk2oedg00vi" target="_blank">
+                <img src="<?= esc_url(get_template_directory_uri()); ?>/asset/image/rec__btn-04.jpg" alt="高橋グループ">
             </a>
         </div>
     </div>
